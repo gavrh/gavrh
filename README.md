@@ -15,6 +15,3 @@
 </a>
 
 i make stuff ❤️
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-**"It's all talk until the code runs."**
-<br />— Ward Cunningham
