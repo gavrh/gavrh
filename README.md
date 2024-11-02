@@ -5,7 +5,7 @@
 	<img width="50%" align="right" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=grh&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&hide_border=true&border_radius=0px">
 </a>
 <a href="https://github.com/grhx" target="_blank">
-	<img width="50%" align="right" alt="Github Stats Grade" src="https://github-readme-stats.vercel.app/api?username=grhx&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=1f1f1f&border_radius=0px">
+	<img width="50%" align="right" alt="Github Stats Grade" src="https://github-readme-stats.vercel.app/api?username=grhx&theme=dark&show_icons=true&hide_border=true&count_private=true&bg_color=1f1f1f&custom_title=Github%20Stats&border_radius=0px">
 </a>
 <a href="https://github.com/grhx" target="_blank">
 	<img width="50%" align="right" alt="Github Stats Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=grhx&theme=dark&hide_border=true&background=1f1f1f&border_radius=0px">
