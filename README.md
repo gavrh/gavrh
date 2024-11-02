@@ -10,8 +10,8 @@
 <a href="https://github.com/grhx" target="_blank">
 	<img width="50%" align="right" alt="Github Stats Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=grhx&theme=dark&hide_border=true&background=1A1E24&border_radius=0px">
 </a>
-<a href="https://github.com/grhx" target="_blank">
+<!-- <a href="https://github.com/grhx" target="_blank">
 	<img width="50%" align="right" alt="Github Stats Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grhx&theme=dark&show_icons=true&hide_border=true&layout=compact&bg_color=1A1E24&border_radius=0px">
-</a>
+</a> -->
 
 i make stuff ❤️
