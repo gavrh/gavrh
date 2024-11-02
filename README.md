@@ -1,6 +1,5 @@
 <div align="center">
 	<p>i like to make stuff ❤️</p>
-	<br/>
 	<a href="https://discord.com/users/1111386258908917862" target="_blank" style="background-color: #fffff; padding: 10px">
 		<img width="49.99%" align="top" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1111386258908917862?bg=1A1E24&borderRadius=0px&showDisplayName=true&hide=true&hideActivity=whenNotUsed">
 	</a>
