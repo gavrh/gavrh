@@ -1,7 +1,7 @@
 <div align="center">
-	<p>i like to make stuff ❤️</p>
+	<h4>i like to make stuff ❤️</h4>
 	<a href="https://discord.com/users/1111386258908917862" target="_blank" style="background-color: #fffff; padding: 10px">
-		<img width="49.99%" align="top" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1111386258908917862?bg=212830&borderRadius=0px&showDisplayName=true&hide=true&hideActivity=whenNotUsed">
+		<img width="50%" align="top" alt="Discord Status" src="https://lanyard.cnrad.dev/api/1111386258908917862?bg=212830&borderRadius=0px&showDisplayName=true&hide=true&hideActivity=whenNotUsed">
 	</a>
 	<a href="https://wakatime.com/@grh" target="_blank">
 		<img width="50%" align="top" alt="Weekly Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=grh&border_radius=5px&theme=dark&bg_color=212830&border_color=212830&icon_color=58a6ff&show_icons=true&disable_animations=true&custom_title=Weekly%20Stats&hide_border=true&border_radius=0px">
